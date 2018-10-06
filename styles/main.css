@@ -7342,3 +7342,8 @@ a.credit {
     transform: translate3d(4px, 0, 0);
   }
 }
+
+.nav-pills .nav-item .nav-link {
+  margin-right: 9px !important;
+  margin-left: 9px !important;
+}
