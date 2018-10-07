@@ -3366,11 +3366,10 @@ body {
 }
 
 .navbar.navbar-transparent {
-  background-color: transparent !important;
+  background-color: transparent;
   -webkit-box-shadow: none;
           box-shadow: none;
   color: #FFFFFF;
-  padding-top: 20px;
 }
 
 .navbar.bg-white:not(.navbar-transparent) a:not(.dropdown-item) {
@@ -7346,4 +7345,12 @@ a.credit {
 .nav-pills .nav-item .nav-link {
   margin-right: 9px !important;
   margin-left: 9px !important;
+}
+
+.blue {
+  background-color: #0066cc !important;
+}
+
+.transparent {
+  background-color: transparent !important;
 }
